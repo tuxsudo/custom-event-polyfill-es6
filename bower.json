@@ -1,0 +1,26 @@
+{
+  "name": "custom-event-polyfill-es6",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tuxsudo/custom-event-polyfill-es6",
+  "authors": [
+    "Jared Anderson <jared@tuxsudo.com>"
+  ],
+  "description": "A ES6 module which polyfills the CustomEvent constructor (for IE9+)",
+  "main": "custom-event-polyfill.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "polyfill",
+    "es6",
+    "CustomEvent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
